@@ -7,7 +7,7 @@
 // @author      bottleofink
 // @license     GPLv3
 // @grant       none
-// @version     1.2
+// @version     1.3
 // @description Keeps the current title active when switching between lending models (Metered Access, Cost Per Circ, Simultaneous Use) in OverDrive Marketplace. Streamlines book ordering workflows for librarians managing Libby collections.
 // ==/UserScript==
 
