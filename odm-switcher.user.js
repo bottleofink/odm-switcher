@@ -5,9 +5,9 @@
 // @downloadURL https://github.com/bottleofink/odm-switcher/raw/main/odm-switcher.user.js
 // @match       https://marketplace.overdrive.com/*
 // @author      bottleofink
-// @license     GPLv3
+// @license     GPL-3.0-or-later
 // @grant       none
-// @version     1.3
+// @version     1.3.1
 // @description Keeps the current title active when switching between lending models (Metered Access, Cost Per Circ, Simultaneous Use) in OverDrive Marketplace. Streamlines book ordering workflows for librarians managing Libby collections.
 // ==/UserScript==
 
