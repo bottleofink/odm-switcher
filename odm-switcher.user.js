@@ -2,6 +2,7 @@
 // @name        OverDrive Marketplace - Keep Title on Model Switch
 // @namespace   https://github.com/bottleofink/
 // @supportURL  https://github.com/bottleofink/odm-switcher/issues
+// @downloadURL https://github.com/bottleofink/odm-switcher/raw/main/odm-switcher.user.js
 // @match       https://marketplace.overdrive.com/*
 // @author      bottleofink
 // @license     GPLv3
